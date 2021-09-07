@@ -1,7 +1,7 @@
 html {
   background-color: #E4E9FD;
   /*To create a gradient with degree and percentage of colors */
-  background-image: -webkit-linear-gradient(65deg, #80ED99 50%, #57CC99 50%); 
+  background-image: -webkit-linear-gradient(65deg, #80ED99 50%,  #F1F1F1 50%); 
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
@@ -20,7 +20,7 @@ h1 {
 }
 
 #heading {
-  background-color: #38A3A5;
+  background-color: #57CC99;
   text-align: center;
 }
 
